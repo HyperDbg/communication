@@ -1,2 +1,2 @@
 # communication
-The serial communication of HyperDbg
+The serial communication protocl of HyperDbg - GDB
