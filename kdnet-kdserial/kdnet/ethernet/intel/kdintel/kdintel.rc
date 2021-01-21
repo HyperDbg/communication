@@ -1,0 +1,11 @@
+#include <windows.h>
+
+#include <ntverp.h>
+
+#define VER_FILETYPE                VFT_DRV
+#define VER_FILESUBTYPE             VFT2_DRV_COMM
+#define VER_FILEDESCRIPTION_STR     "Intel Network Kernel Debug Extensibility Module"
+#define VER_INTERNALNAME_STR        "kd_02_8086.dll"
+#define VER_ORIGINALFILENAME_STR    "kd_02_8086.dll"
+
+#include "common.ver"

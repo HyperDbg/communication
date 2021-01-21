@@ -1,0 +1,3204 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D08330.2D3548C0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01D08330.2D3548C0
+Content-Location: file:///C:/247C3D13/DevelopingKDNETExtensibilityModules.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="windows-1252"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
+2">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 15">
+<meta name=3DOriginator content=3D"Microsoft Word 15">
+<link rel=3DFile-List
+href=3D"DevelopingKDNETExtensibilityModules_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Joe Ballantyne</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Joe Ballantyne</o:LastAuthor>
+  <o:Revision>28</o:Revision>
+  <o:TotalTime>2798</o:TotalTime>
+  <o:Created>2015-04-25T18:20:00Z</o:Created>
+  <o:LastSaved>2015-04-30T17:26:00Z</o:LastSaved>
+  <o:Pages>22</o:Pages>
+  <o:Words>5219</o:Words>
+  <o:Characters>29749</o:Characters>
+  <o:Lines>247</o:Lines>
+  <o:Paragraphs>69</o:Paragraphs>
+  <o:CharactersWithSpaces>34899</o:CharactersWithSpaces>
+  <o:Version>15.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=3DthemeData
+href=3D"DevelopingKDNETExtensibilityModules_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping
+href=3D"DevelopingKDNETExtensibilityModules_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+   <w:DontFlipMirrorIndents/>
+   <w:OverrideTableStyleHps/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"371">
+  <w:LsdException Locked=3D"false" Priority=3D"0" QFormat=3D"true" Name=3D"=
+Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"header"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footer"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"index heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of figures"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"envelope return"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"footnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"line number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"page number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote reference"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"endnote text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"table of authorities"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"macro"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"toa heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Bullet 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Number 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" QFormat=3D"true" Name=3D=
+"Title"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Closing"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Signature"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Default Paragraph Font"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"List Continue 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Message Header"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" QFormat=3D"true" Name=3D=
+"Subtitle"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Salutation"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Date"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text First Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Note Heading"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Body Text Indent 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Block Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Hyperlink"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"FollowedHyperlink"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" QFormat=3D"true" Name=3D=
+"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" QFormat=3D"true" Name=3D=
+"Emphasis"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Document Map"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Plain Text"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"E-mail Signature"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Top of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Bottom of Form"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal (Web)"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Acronym"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Address"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Cite"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Code"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Definition"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Keyboard"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Preformatted"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Sample"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Typewriter"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"HTML Variable"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Normal Table"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"annotation subject"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Outline List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Simple 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Classic 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Colorful 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Columns 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Grid 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table List 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table 3D effects 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Contemporary"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Elegant"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Professional"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Subtle 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Web 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Balloon Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   Name=3D"Table Theme"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Placeholder =
+Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" Name=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"41" Name=3D"Plain Table 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"42" Name=3D"Plain Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"43" Name=3D"Plain Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"44" Name=3D"Plain Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"45" Name=3D"Plain Table 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"40" Name=3D"Grid Table Light=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"Grid Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"Grid Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"Grid Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"Grid Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"Grid Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"Grid Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"Grid Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46" Name=3D"List Table 1 Lig=
+ht"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51" Name=3D"List Table 6 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52" Name=3D"List Table 7 Col=
+orful"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"46"
+   Name=3D"List Table 1 Light Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"47" Name=3D"List Table 2 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"48" Name=3D"List Table 3 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"49" Name=3D"List Table 4 Acc=
+ent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"50" Name=3D"List Table 5 Dar=
+k Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"51"
+   Name=3D"List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"52"
+   Name=3D"List Table 7 Colorful Accent 6"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:105%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#0563C1;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#954F72;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+cite
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:#009030;
+	font-style:normal;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3D"#0563C1" vlink=3D"#954F72" style=3D'tab-interval=
+:.5in'>
+
+<div class=3DWordSection1>
+
+<p class=3DMsoNormal>How to develop KDNET extensibility modules.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Overview<o:p>=
+</o:p></b></p>
+
+<p class=3DMsoNormal>KDNET is a kernel debug transport that enables kernel
+debugging of windows over a network.<span style=3D'mso-spacerun:yes'> 
+</span>Initially it was used to support kernel debugging with Ethernet
+NICs.<span style=3D'mso-spacerun:yes'>  </span>It is designed so that the h=
+ardware
+support layer is built into a separate module from the network packet
+processing and kernel interface layer.<span style=3D'mso-spacerun:yes'> 
+</span>This hardware driver support layer is called a KDNET extensibility
+module.</p>
+
+<p class=3DMsoNormal>KDNET is the only transport that can be extended to ru=
+n on
+any hardware through the use of a separate hardware driver extensibility mo=
+dule
+<span class=3DSpellE>dll</span>.<span style=3D'mso-spacerun:yes'>  </span>I=
+t is the
+long term plan to support all debugging of Windows through KDNET and KDNET
+extensibility modules.<span style=3D'mso-spacerun:yes'>  </span>All other k=
+ernel
+transport DLLs (kdcom.dll, kd1394.dll, kdusb.dll, etc.) will eventually be
+deprecated and removed from Windows.</p>
+
+<p class=3DMsoNormal>There are two types of interfaces that KDNET uses to
+communicate with KDNET extensibility modules.<span style=3D'mso-spacerun:ye=
+s'> 
+</span>One is a packet based interface that is used for NICs, USB, and wire=
+less
+hardware, and the other is a byte based interface that is used to support K=
+DNET
+over serial hardware.</p>
+
+<p class=3DMsoNormal>KDNET extensibility modules must follow very stringent
+requirements in order to operate correctly.<span style=3D'mso-spacerun:yes'=
+> 
+</span>Because they are used for kernel debugging they will be called and e=
+xecuted
+when the system is holding off further execution of code.<span
+style=3D'mso-spacerun:yes'>  </span>Generally, all of the processors in the
+system are locked up spinning in an IPI except for the processor that is
+communicating with the debugger application running on the host machine thr=
+ough
+the kernel debug transport.<span style=3D'mso-spacerun:yes'>  </span>That
+processor is typically running with interrupts completely disabled, and is
+essentially spinning on the debug transport hardware waiting for commands to
+come from the debugger.</p>
+
+<p class=3DMsoNormal>KDNET extensibility modules have exactly 1 explicit ex=
+port –
+<span class=3DSpellE>KdInitializeLibrary</span>.<span style=3D'mso-spacerun=
+:yes'> 
+</span>They also have no explicit imports.<span style=3D'mso-spacerun:yes'> 
+</span>KDNET extensibility modules are passed a pointer to a structure with=
+ a
+list of the routines they are allowed to call by KDNET when it calls <span
+class=3DSpellE>KdInitializeLibrary</span>. No other routines can be called.=
+<span
+style=3D'mso-spacerun:yes'>  </span>Period.<span style=3D'mso-spacerun:yes'=
+> 
+</span>KDNET <span class=3DSpellE>extensiblity</span> modules that have any
+imports are incorrectly designed, and will not be supported.</p>
+
+<p class=3DMsoNormal>If you dump the imports and exports of a KDNET <span
+class=3DSpellE>extensiblity</span> modules using link /dump /exports and li=
+nk
+/dump /imports, you will see they have only 1 export (<span class=3DSpellE>=
+KdInitializeLibrary</span>),
+and no imports. KDNET extensibility modules report their additional exports=
+ to
+KDNET by filling in function pointers in an export functions structure to w=
+hich
+KDNET passes a pointer when <span class=3DSpellE>KdInitializeLibrary</span>=
+ is
+called.<span style=3D'mso-spacerun:yes'>  </span>KDNET then uses the functi=
+on
+pointers in that structure to call into the extensibility module and effect
+data transfers using the hardware supported by the module.<span
+style=3D'mso-spacerun:yes'>  </span>KDNET determines whether the module is a
+packet based or byte based module by looking at which specific functions the
+module fills in in the export function table in the structure.<span
+style=3D'mso-spacerun:yes'>  </span>Some of those functions are for support=
+ing
+packet based hardware, and others are for serial based hardware.<span
+style=3D'mso-spacerun:yes'>  </span>Some of the functions in the table are =
+used
+by both serial and packet based hardware (<span class=3DSpellE>KdInitialize=
+Controller</span>,
+<span class=3DSpellE>KdShutdownController</span>, <span class=3DSpellE><span
+class=3DGramE>KdGetHardwareContextSize</span></span>).</p>
+
+<p class=3DMsoNormal>KDNET extensibility modules should be written as single
+threaded code.<span style=3D'mso-spacerun:yes'>  </span>They should not per=
+form
+any synchronization.<span style=3D'mso-spacerun:yes'>  </span>All kernel de=
+bug
+transports depend on the Windows kernel to do the proper synchronization wh=
+en
+the debugger is entered.<span style=3D'mso-spacerun:yes'>  </span>The kerne=
+l has
+a debugger lock that it takes when it enters the kernel debugger, and it al=
+so
+locks up the other processors in the system in an IPI when the debugger is
+entered.<span style=3D'mso-spacerun:yes'>  </span>Those processors will be
+released, only when the kernel debugger running on the host tells the target
+machine to allow execution to continue.<span style=3D'mso-spacerun:yes'> 
+</span>Because the kernel does this synchronization, the KDNET extensibility
+modules must absolutely not use any spinlocks, <span class=3DSpellE>mutexes=
+</span>,
+gates, or any other Windows synchronization mechanism in their code.<span
+style=3D'mso-spacerun:yes'>  </span>They should be written to directly prog=
+ram
+their respective hardware to send and receive packets and or bytes.</p>
+
+<p class=3DMsoNormal>KDNET extensibility module code should be made as abso=
+lutely
+simple as possible.<span style=3D'mso-spacerun:yes'>  </span>This will help
+ensure that it is as bug free as possible, since debugging KDNET extensibil=
+ity
+module code live on a machine is currently not possible without the use of a
+hardware debugger.<span style=3D'mso-spacerun:yes'>  </span>You cannot use =
+the
+kernel debugger to debug the kernel debug transport code.<span
+style=3D'mso-spacerun:yes'>  </span>Attempting to do so will cause the mach=
+ine to
+reboot due to a blown kernel stack (which typically ends with a double fault
+and reboot), or deadlock, or will cause the transport to be reentered, whic=
+h in
+most cases will cause the transport to not work correctly.</p>
+
+<p class=3DMsoNormal>Your kernel debug transport module must follow one of =
+two
+naming conventions for KDNET extensibility <span class=3DSpellE>modues</spa=
+n>.<span
+style=3D'mso-spacerun:yes'>  </span>If your module is for supporting PCI ba=
+sed,
+hardware, then it must be named kd_YY_XXXX.dll where XXXX is the PCI vendor=
+ ID
+of your hardware in hex, and YY is the PCI class for your hardware.<span
+style=3D'mso-spacerun:yes'>  </span>There are several KDNET extensibility m=
+odules
+that ship in the box in windows that support PCI based hardware.<span
+style=3D'mso-spacerun:yes'>  </span>For example, Intel’s kd_02_8086.dll, Br=
+oadcom’s
+kd_02_14e4.dll, and <span class=3DSpellE>Realtek’s</span> kd_02_10ec.dll.<s=
+pan
+style=3D'mso-spacerun:yes'>  </span>You can look up registered PCI vendor I=
+Ds at <cite><span
+lang=3DEN style=3D'font-size:10.0pt;line-height:105%;font-family:"Arial",sa=
+ns-serif;
+mso-ansi-language:EN'><a href=3D"https://www.pcisig.com/membership/vid_sear=
+ch">https://www.pcisig.com/membership/vid_search</a>.<span
+style=3D'mso-spacerun:yes'>  </span></span></cite>All of the PCI based KDNET
+extensibility modules use the vendor VID of the hardware they support in he=
+x as
+the last 4 characters in the name of their module.<span
+style=3D'mso-spacerun:yes'>  </span>The class code for most of the in box m=
+odules
+is 02, because they are network class devices, and therefore have a PCI cla=
+ss
+of 0x02 in their PCI <span class=3DSpellE>config</span> space.<span
+style=3D'mso-spacerun:yes'>  </span>Winload.exe builds the name of PCI based
+KDNET extensibility modules by reading the PCI device class and the PCI VID=
+ of
+the selected debug device from its PCI configuration space, and tries to lo=
+ad a
+module with those identifiers in the name.<span style=3D'mso-spacerun:yes'> 
+</span>If your device has a PCI class code that is not the network 0x02 cla=
+ss,
+then you must use the correct PCI class code in hexadecimal for your device=
+, in
+the name of your KDNET extensibility module.<span style=3D'mso-spacerun:yes=
+'> 
+</span>Otherwise, your module will not be loaded correctly by <span
+class=3DSpellE>winload</span>.<span style=3D'mso-spacerun:yes'>  </span>The=
+ _02_ in
+each of those names is the PCI class code for network class devices in
+hex.<span style=3D'mso-spacerun:yes'>  </span>This code is also found and r=
+ead
+from the PCI configuration space of the debug device.</p>
+
+<p class=3DMsoNormal>If you have a device that has a DBG2 table entry, and =
+is not
+a PCI based device, then the naming convention for your module is
+different.<span style=3D'mso-spacerun:yes'>  </span>The naming convention f=
+or
+DBG2 table debug devices is kd_XXXX_YYYY.dll where XXXX is the hex DBG2 tab=
+le <span
+class=3DSpellE>PortType</span>, and YYYY is the hex DBG2 table <span
+class=3DSpellE>PortSubtype</span> from the DBG2 table entry.<span
+style=3D'mso-spacerun:yes'>  </span>Kd_8003_5143.dll is an inbox DLL for
+supporting a net (0x8003) <span class=3DSpellE>PortType</span> with a subty=
+pe of
+0x5143.<span style=3D'mso-spacerun:yes'>  </span>In this case 5143 is the
+Qualcomm PCI vid, since this is for supporting KDNET on Qualcomm USB
+controllers, and for Net DBG2 table entries the <span class=3DSpellE>PortSu=
+btype</span>
+is defined to be the PCI VID for the vendor of the hardware.<span
+style=3D'mso-spacerun:yes'>  </span>Note that you can support serial, USB a=
+nd
+other DBG2 table devices using this naming convention.<span
+style=3D'mso-spacerun:yes'>  </span>The following are the currently support=
+ed <span
+class=3DSpellE>PortType</span> values in hex:<span style=3D'mso-spacerun:ye=
+s'> 
+</span>8000 for serial devices, 8001 for 1394 devices, 8002 for USB devices,
+8003 for NET devices.<span style=3D'mso-spacerun:yes'>  </span>Note that the
+subtypes for serial and USB devices must be reserved with Microsoft.<span
+style=3D'mso-spacerun:yes'>  </span>Microsoft maintains a list of the alloc=
+ated
+serial and USB subtypes.<span style=3D'mso-spacerun:yes'>  </span>Please se=
+nd
+mail to <a href=3D"mailto:kdnet@microsoft.com">kdnet@microsoft.com</a> to r=
+eserve
+a serial or USB subtype, if the existing supported types will not work with
+your hardware.</p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>KDNET Extensi=
+bility
+Imports<o:p></o:p></b></p>
+
+<p class=3DMsoNormal>The following is the list of routines that you can cal=
+l from
+a KDNET extensibility module.<span style=3D'mso-spacerun:yes'>  </span>Note=
+ that
+all of these routines are passed to the <span class=3DSpellE>KdInitializeLi=
+brary</span>
+routine, and the <span class=3DSpellE>kdnetextensibility.h</span> header wi=
+ll
+remap normal calls to these routines to go through the import table.<span
+style=3D'mso-spacerun:yes'>  </span>Your code must call these through the i=
+mport
+table, so that your module has no imports.<span style=3D'mso-spacerun:yes'> 
+</span>You may not call any other routines that are exported by the kernel,=
+ the
+<span class=3DSpellE>hal</span>, or any other kernel module.<span
+style=3D'mso-spacerun:yes'>  </span>You may only call these routines.<span
+style=3D'mso-spacerun:yes'>  </span>This set of routines has proved suffici=
+ent to
+develop all of the in box KDNET extensibility modules, and should suffice f=
+or
+normal scenarios.<span style=3D'mso-spacerun:yes'>  </span>If you require
+additional routines that are exported by the kernel, but are not in this li=
+st,
+please send mail to <a href=3D"mailto:kdnet@microsoft.com">kdnet@microsoft.=
+com</a>
+explaining your scenario, and which additional routines you require and
+why.<span style=3D'mso-spacerun:yes'>  </span>Note that this list will only=
+ be
+added to, on major Windows release cycles if at all.<span
+style=3D'mso-spacerun:yes'>  </span>Note that most of these routines corres=
+pond
+directly to Windows kernel APIs that are supported by either the kernel or =
+the <span
+class=3DSpellE>hal</span>.<span style=3D'mso-spacerun:yes'>   </span>One or=
+ two are
+custom KDNET only routines.</p>
+
+<p class=3DMsoNormal>It is critical that you include <span class=3DSpellE>k=
+dnetextensibility.h</span>
+properly in your headers so that the correct remapping of routines through =
+the
+import table can occur.<span style=3D'mso-spacerun:yes'>  </span>If this is=
+ not
+done, your module will have imports, and will not be supported.</p>
+
+<p class=3DMsoNormal>The following routines should be used for reading and
+writing to memory mapped device memory.<span style=3D'mso-spacerun:yes'> 
+</span>These have the same calling convention and are mapped to their
+corresponding kernel routines: READ_REGISTER_UCHAR, READ_REGISTER_USHORT,
+READ_REGISTER_ULONG, WRITE_REGISTER_UCHAR, WRITE_REGISTER_USHORT,
+WRITE_REGISTER_ULONG and on 64 bit platforms only READ_REGISTER_ULONG64 and
+WRITE_REGISTER_ULONG64.<span style=3D'mso-spacerun:yes'>   </span>All device
+memory access should be done through these routines, as they ensure that re=
+ads
+and writes are not reordered by the processor.<span style=3D'mso-spacerun:y=
+es'> 
+</span>Note that the msdn.microsoft.com documents Windows CE Compact 2013
+routines that correspond in calling convention to these routines.<span
+style=3D'mso-spacerun:yes'>  </span>Unfortunately it appears the NT routine=
+s are
+not documented, but the calling convention is the same.</p>
+
+<p class=3DMsoNormal>The following routines should be used for reading and
+writing to device IO ports.<span style=3D'mso-spacerun:yes'>  </span>These =
+have
+the same calling convention and are mapped to their corresponding kernel
+routines: READ_PORT_UCHAR, READ_PORT_USHORT, READ_PORT_ULONG, WRITE_PORT_UC=
+HAR,
+WRITE_PORT_USHORT and WRITE_PORT_ULONG.<span style=3D'mso-spacerun:yes'>  
+</span>All device IO port access should be done through these routines.<span
+style=3D'mso-spacerun:yes'>  </span>Note that the msdn.microsoft.com docume=
+nts
+Windows CE Compact 2013 routines that correspond in calling convention to t=
+hese
+routines.</p>
+
+<p class=3DMsoNormal>The following additional routines can be called, and s=
+hould
+be called normally with the specified parameters.<span
+style=3D'mso-spacerun:yes'>  </span>Note that doing so, while properly incl=
+uding
+the <span class=3DSpellE>kdnetextensibility.h</span> header, will remap the
+function calls through the KDNET extensibility import table, resulting in no
+explicit imports in your module as is required for KDNET extensibility modu=
+les.</p>
+
+<p class=3DMsoNormal>PHYSICAL_ADDRESS</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdGetPhysicalAddress</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID=
+ <span
+class=3DSpellE>Va</span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KeStallExecutionProcessor</span> =
+(</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG
+Microseconds</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>  </span><span
+style=3D'mso-spacerun:yes'>  </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>ULONG</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdGetPciDataByOffset</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ <span
+class=3DSpellE>BusNumber</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ <span
+class=3DSpellE>SlotNumber</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__<span
+class=3DSpellE>out_<span class=3DGramE>bcount</span></span><span class=3DGr=
+amE>(</span>Length)
+PVOID Buffer,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ Offset,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ Length</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>ULONG</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdSetPciDataByOffset</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ <span
+class=3DSpellE>BusNumber</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ <span
+class=3DSpellE>SlotNumber</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__<span
+class=3DSpellE>in_<span class=3DGramE>bcount</span></span><span class=3DGra=
+mE>(</span>Length)
+PVOID Buffer,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ Offset,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ Length</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdSetDebuggerNotPresent</span> (<=
+/p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in BOOLE=
+AN <span
+class=3DSpellE>NotPresent</span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>PoSetHiberRange</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_<span
+class=3DSpellE>In_opt</span>_ PVOID <span class=3DSpellE>MemoryMap</span>,<=
+/p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ ULONG=
+<span
+style=3D'mso-spacerun:yes'>     </span>Flags,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ PVOID=
+<span
+style=3D'mso-spacerun:yes'>     </span>Address,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ ULONG=
+_PTR
+Length,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ ULONG=
+<span
+style=3D'mso-spacerun:yes'>     </span>Tag</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KeBugCheckEx</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+ <span
+class=3DSpellE>BugCheckCode</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+_PTR
+BugCheckParameter1,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+_PTR
+BugCheckParameter2,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+_PTR
+BugCheckParameter3,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in ULONG=
+_PTR
+BugCheckParameter4</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>PVOID</p>
+
+<p class=3DMsoNormal>KdMapPhysicalMemory64 (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_
+PHYSICAL_ADDRESS <span class=3DSpellE>PhysicalAddress</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ ULONG=
+ <span
+class=3DSpellE>NumberPages</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ BOOLE=
+AN <span
+class=3DSpellE>FlushCurrentTLB</span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdUnmapVirtualAddress</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ PVOID=
+ <span
+class=3DSpellE>VirtualAddress</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ ULONG=
+ <span
+class=3DSpellE>NumberPages</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>_In_ BOOLE=
+AN <span
+class=3DSpellE>FlushCurrentTLB</span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>ULONG64</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdReadCycleCounter</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__<span
+class=3DSpellE>out_opt</span> PULONG64 Frequency</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>);</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Note that the <span class=3DSpellE>PoSetHiberRange</sp=
+an>
+function should only be called from the <span class=3DSpellE>KdSetHibernate=
+Range</span>
+routine.<span style=3D'mso-spacerun:yes'>  </span>Also, most KDNET extensib=
+ility
+modules should not need to call <span class=3DSpellE>KeBugCheckEx</span>,
+KdMapPhysicalMemory64 and <span class=3DSpellE>KdUnmapVirtualAddress</span>=
+.<span
+style=3D'mso-spacerun:yes'>  </span>On the other hand essentially all KDNET
+extensibility modules will need to call <span class=3DSpellE>KdGetPhysicalA=
+ddress</span>
+for getting physical memory addresses required to program device DMA engine=
+s,
+and many will need to call <span class=3DSpellE>KeStallExecutionProcessor</=
+span>,
+<span class=3DSpellE>KdGetPciDataByOffset</span> and <span class=3DSpellE>K=
+dSetPciDataByOffset</span>.<span
+style=3D'mso-spacerun:yes'>  </span>The last two routines are for accessing
+device PCI <span class=3DSpellE>config</span> space.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>KDNET Extensi=
+bility
+Exports<o:p></o:p></b></p>
+
+<p class=3DMsoNormal>The following is a brief description of each of the KD=
+NET
+extensibility routines.<span style=3D'mso-spacerun:yes'>  </span>You must
+implement all of the routines required for either a packet based KDNET <span
+class=3DSpellE>extensiblity</span> module, or a serial based KDNET extensib=
+ility
+module.<span style=3D'mso-spacerun:yes'>  </span>The following are the pack=
+et
+KDNET <span class=3DSpellE>extensiblity</span> module exports: </p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>NTSTATUS</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdInitializeLibrary</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in
+PKDNET_EXTENSIBILITY_IMPORTS <span class=3DSpellE>ImportTable</span>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__<span
+class=3DSpellE>in_opt</span> PCHAR <span class=3DSpellE>LoaderOptions</span=
+>,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__<span
+class=3DSpellE>inout</span> PDEBUG_DEVICE_DESCRIPTOR Device</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This routi=
+ne
+validates that the <span class=3DSpellE>ImportTable</span> is a supported
+version.<span style=3D'mso-spacerun:yes'>  </span>Makes</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>a</span>
+copy of the <span class=3DSpellE>ImportTable</span> in its own global memor=
+y, and
+writes pointers to</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>functions</span>
+that it exports into the Exports pointer also located in that</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>table</span>.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This routi=
+ne also
+writes the size in bytes of the Memory it needs into</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>the</span>
+Length field of the Memory structure contained in the debug device</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>descriptor</span>
+passed to this routine.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>When <span
+class=3DSpellE>kenrel</span> debugging is enabled, this routine will be cal=
+led
+twice during</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>boot</span>.<span
+style=3D'mso-spacerun:yes'>  </span>The first time by <span class=3DSpellE>=
+winload</span>
+to determine how much memory to allocate</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>for</span>
+KDNET and its extensibility module, and the second time by KDNET when</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>the</span>
+kernel first initializes the kernel debugging subsystem.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span
+class=3DSpellE>ImportTable</span> - Supplies a pointer to the KDNET_EXTENSI=
+BILITY_IMPORT</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>structure</span>.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span
+class=3DSpellE>LoaderOptions</span> - Supplies a pointer to the <span
+class=3DSpellE>LoaderOptions</span> passed to the</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>kernel</span>.<span style=3D'mso-spacerun:yes'>  </span>This =
+allows
+settings to be passed to the KDNET extensibility</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>module</span> using the <span class=3DSpellE>loadoptions</spa=
+n> BCD
+setting.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Device - S=
+upplies
+a pointer to the debug device descriptor.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>STATUS_INVALID_PARAMETER if the version of the import or export tabl=
+e is</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>incorrect</span>.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_SUC=
+CESS if
+initialization succeeds.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>This routine is called to pass the import and export routines betwe=
+en
+KDNET and this KDNET extensibility module.<span style=3D'mso-spacerun:yes'> 
+</span>This routine should validate that the version of both the import and
+export tables is expected and supported, and fail if not.<span
+style=3D'mso-spacerun:yes'>  </span>It should make a copy of the import tab=
+le in
+its own global memory.<span style=3D'mso-spacerun:yes'>  </span>It should w=
+rite
+the routines it exports into the structure pointed to by the Exports field =
+of
+the import table.<span style=3D'mso-spacerun:yes'>  </span>It must also set=
+ the
+Length field of the Memory structure that is part of the debug device
+descriptor pointer passed to this routine, with the number of bytes of memo=
+ry
+that it requires to support the hardware device.</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>Note that device will be populated with the hardware selected for t=
+he
+debugger.<span style=3D'mso-spacerun:yes'>  </span>This routine should cust=
+omize
+the amount of memory required based on the device, if needed.<span
+style=3D'mso-spacerun:yes'>  </span>For example, extensibility modules that
+support both 1Gig and 10Gig hardware, can increase the memory size they req=
+uest
+for 10Gig devices.<span style=3D'mso-spacerun:yes'>  </span>They can determ=
+ine
+which device is being used by examining the <span class=3DSpellE>DeviceID</=
+span>
+field of the debug device descriptor.</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>Note that this routine will be called both by <span class=3DSpellE>=
+winload</span>,
+and by KDNET during the <span class=3DSpellE>KdInitSystem</span> call.<span
+style=3D'mso-spacerun:yes'>  </span>Note that this is the ONLY routine that=
+ is
+exported by KDNET extensibility modules.<span style=3D'mso-spacerun:yes'> 
+</span>It is the only routine placed in a .<span class=3DSpellE>def</span>
+file.<span style=3D'mso-spacerun:yes'>  </span>KDNET extensibility modules =
+have exactly
+one explicit export – this routine – and no imports.</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdSetHibernateRange</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>VOID</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This routi=
+ne is
+called to mark the code in the KDNET <span class=3DSpellE>extensiblity</spa=
+n>
+module</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>so</span>
+that it can be properly handled during hibernate and resume from</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>hibernate</span>.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>None.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>None.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>This routine is called by the system before hibernate so that it can
+properly register the code used by the KDNET extensibility module with the
+system.<span style=3D'mso-spacerun:yes'>  </span>This allows the system to
+properly manage that memory during hibernate and resume from hibernate.<span
+style=3D'mso-spacerun:yes'>  </span>(The memory gets saved late, and loaded
+early, since it will be called very early during resume.)<br clear=3Dall
+style=3D'mso-special-character:line-break;page-break-before:always'>
+</p>
+
+<p class=3DMsoNormal>NTSTATUS</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>KdInitializeC=
+ontroller</span></span><span
+class=3DGramE>(</span></p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID=
+ Adapter</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+initializes the Network controller.<span style=3D'mso-spacerun:yes'>  </spa=
+n>The
+controller is setup</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>to</span>
+send and <span class=3DSpellE>recieve</span> packets at the fastest rate
+supported by the hardware</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>link</span>.<span
+style=3D'mso-spacerun:yes'>  </span>Packet send and receive will be functio=
+nal on
+successful exit of</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>this</span>
+routine.<span style=3D'mso-spacerun:yes'>  </span>The controller will be
+initialized with Interrupts masked</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>since</span>
+all debug devices must operate without interrupt support.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_SUC=
+CESS on
+successful initialization.<span style=3D'mso-spacerun:yes'>  </span>Appropr=
+iate
+failure code if</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>initialization</span>
+fails.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>This routine is called to initialize the hardware.<span
+style=3D'mso-spacerun:yes'>  </span>It is called when the system initialize=
+s, and
+whenever the system wakes from a low power state for which it called <span
+class=3DSpellE>KdShutdownController</span>.<span style=3D'mso-spacerun:yes'=
+> 
+</span>This routine MUST ensure that the hardware has fully completed
+initialization and that it is ready to send packets BEFORE returning.<span
+style=3D'mso-spacerun:yes'>  </span>This routine should wait for the PHY to=
+ come
+up, and for link to be established.<span style=3D'mso-spacerun:yes'>  </spa=
+n>Note
+that if there is no cable connected, this routine should not stall
+indefinitely.<span style=3D'mso-spacerun:yes'>  </span>This routine sets th=
+e link
+speed and duplex in the KDNET shared data structure that is shared between
+KDNET and this extensibility module.<span style=3D'mso-spacerun:yes'>  </sp=
+an>It
+also writes the MAC address used by the hardware, into the location pointed=
+ to
+by <span class=3DSpellE>TargetMacAddress</span> in the KDNET shared data
+structure.</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdShutdownController</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID=
+ Adapter</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+shuts down the Network controller.<span style=3D'mso-spacerun:yes'>  </span=
+>No
+further packets can</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>be</span>
+sent or received until the controller is reinitialized.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>None.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>It is <b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'color:red'>CRITICAL</span></b> that this routine WAIT until all tr=
+ansmit
+packets that still pending actually get sent out on the wire.<span
+style=3D'mso-spacerun:yes'>  </span>This routine needs to wait until all tr=
+ansmit
+packets have been <span class=3DSpellE>DMA’ed</span> from main memory and a=
+re out
+on the wire BEFORE it shuts down transmit on the hardware. <span
+style=3D'mso-spacerun:yes'> </span>Once all pending transmit packets have b=
+een
+sent, this routine should completely <span class=3DSpellE>shutdown</span> t=
+he
+hardware.<span style=3D'mso-spacerun:yes'>  </span>This routine will be cal=
+led
+when the system shuts down, and also when the system decides to power manage
+the debug transport to a low power state.<span style=3D'mso-spacerun:yes'> 
+</span>This can be called when the system goes into standby, hibernate, sle=
+ep,
+and connected standby, in addition to when the system is shutdown.</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>ULONG</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdGetHardwareContextSize</span> (=
+</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in
+PDEBUG_DEVICE_DESCRIPTOR Device</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>)</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+returns the required size of the hardware context in bytes.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Device - S=
+upplies
+a pointer to the debug device descriptor.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>None.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>This routine should return the number of bytes required for all of =
+the memory
+needed to support your hardware.<span style=3D'mso-spacerun:yes'>  </span>T=
+his
+includes your context structure, and all packet buffers for receive and
+transmit, as well as any hardware packet descriptors and other structures.<=
+span
+style=3D'mso-spacerun:yes'>  </span>The size of ALL memory that you require=
+ needs
+to be reported here.<span style=3D'mso-spacerun:yes'>  </span>Including any=
+ extra
+memory required for alignment limitations your hardware may have for packet=
+s,
+or packet descriptors or other structures.</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>Note that this routine should be called by your <span class=3DSpell=
+E>KdInitializeLibrary</span>
+routine when it sets the Memory Length field in the debug device descriptor=
+.</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>NTSTATUS</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdGetRxPacket</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID
+Adapter,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__out PULO=
+NG
+Handle,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__out PVOID
+*Packet,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__out PULO=
+NG
+Length</p>
+
+<p class=3DMsoNormal>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+returns the next available received packet to the caller.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Handle - S=
+upplies
+a pointer to the handle for this packet.<span style=3D'mso-spacerun:yes'> 
+</span>This handle</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>will</span> be used to release the resources associated with =
+this
+packet back</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>to</span> the hardware.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Packet - S=
+upplies
+a pointer that will be written with the address of the</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>start</span> of the packet.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Length - S=
+upplies
+a pointer that will be written with the length of the</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>received</span> packet.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_SUC=
+CESS when
+a packet has been received.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_IO_=
+TIMEOUT
+otherwise.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>This routine gets the next available packet that has been received,=
+ but
+not yet processed.<span style=3D'mso-spacerun:yes'>  </span>It returns a ha=
+ndle
+for that packet.<span style=3D'mso-spacerun:yes'>  </span>The handle will b=
+e used
+to get the address of the packet by calling <span class=3DSpellE>KdGetPacke=
+tAddress</span>,
+as well as the length by calling <span class=3DSpellE>KdGetPacketLength</sp=
+an>.<span
+style=3D'mso-spacerun:yes'>  </span>The packet and handle must remain avail=
+able
+and valid until the packet is released by calling <span class=3DSpellE>KdRe=
+leaseRxPacket</span>.<span
+style=3D'mso-spacerun:yes'>  </span>This routine also directly returns the =
+packet
+address and length to the caller.</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>If no packet is currently available this routine MUST return
+immediately with STATUS_IO_TIMEOUT.<span style=3D'mso-spacerun:yes'>  </spa=
+n>This
+routine MUST NOT wait for a packet to be received.<span
+style=3D'mso-spacerun:yes'>  </span>Note that the top 2 bits of Handle are
+reserved.<span style=3D'mso-spacerun:yes'>  </span>TRANSMIT_HANDLE and TRAN=
+SMIT_ASYNC
+must both be clear.</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>VOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdReleaseRxPacket</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID
+Adapter,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>ULONG Hand=
+le</p>
+
+<p class=3DMsoNormal>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+reclaims the hardware resources used for the packet</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>associated</span>
+with the passed Handle.<span style=3D'mso-spacerun:yes'>  </span>It reprogr=
+ams
+the hardware to use those</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>resources</span>
+to receive another packet.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Handle - S=
+upplies
+the handle of the packet whose resources should be</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>reclaimed</span> to receive another packet.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>None.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>This routine releases the resources associated with the packet Hand=
+le
+back to the hardware so they can be used to receive another packet.<span
+style=3D'mso-spacerun:yes'>  </span>Every call to <span class=3DSpellE>KdGe=
+tRxPacket</span>
+that succeeds will be followed by another call to <span class=3DSpellE>KdRe=
+leaseRxPacket</span>
+with the handle returned from <span class=3DSpellE>KdGetRxPacket</span>.<sp=
+an
+style=3D'mso-spacerun:yes'>  </span>Note that it is NOT guaranteed that <sp=
+an
+class=3DSpellE>KdReleaseRxPacket</span> will be called immediately after <s=
+pan
+class=3DSpellE>KdGetRxPacket</span> succeeds.<span style=3D'mso-spacerun:ye=
+s'> 
+</span>It is possible that another <span class=3DSpellE>KdGetRxPacket</span=
+> call
+will be made first.<span style=3D'mso-spacerun:yes'>  </span>However, every
+successful <span class=3DSpellE>KdGetRxPacket</span> call, will have its
+resources released with a <span class=3DSpellE>KdReleaseRxPacket</span> cal=
+l.</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>This routine should properly program the hardware so the released
+resources can be used to receive another packet.</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>NTSTATUS</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdGetTxPacket</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID
+Adapter,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__out PULO=
+NG
+Handle</p>
+
+<p class=3DMsoNormal>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+acquires the hardware resources needed to send a packet and</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>returns</span>
+a handle to those resources.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Handle - S=
+upplies
+a pointer to the handle for the packet for which hardware</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>resources</span> have been reserved.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_SUC=
+CESS
+when hardware resources have been successfully reserved.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_IO_=
+TIMEOUT
+if the hardware resources could not be reserved.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>STATUS_INVALID_PARAMETER if an invalid Handle pointer or Adapter is
+passed.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>This routine gets the next available transmit resources and returns=
+ a
+handle to them.<span style=3D'mso-spacerun:yes'>  </span>This handle will b=
+e used
+to call <span class=3DSpellE>KdGetPacketAddress</span>, and <span class=3DS=
+pellE>KdGetPacketLength</span>.
+<span style=3D'mso-spacerun:yes'> </span>The packet address returned by <sp=
+an
+class=3DSpellE>KdGetPacketAddress</span> will be used to directly write the
+contents of the packet.<span style=3D'mso-spacerun:yes'>  </span>The packet
+address must be the start of the packet, and the length should be the maxim=
+um
+number of bytes that can be written into the packet.<span
+style=3D'mso-spacerun:yes'>  </span>Note that if there are no available har=
+dware
+resources, because they have all been acquired, and have not yet been
+transmitted, then this routine should immediately return STATUS_IO_TIMEOUT.=
+</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'>TRANSMIT_HANDLE must be set in the returned handle.<span
+style=3D'mso-spacerun:yes'>  </span>Note that the top 2 bits of Handle are
+reserved for the TRANSMIT_ASYNC and TRANSMIT_HANDLE flags.</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>NTSTATUS</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdSendTxPacket</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID
+Adapter,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>ULONG Hand=
+le,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>ULONG Leng=
+th</p>
+
+<p class=3DMsoNormal>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion sends
+the packet associated with the passed Handle out to the</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>network</span>.<span
+style=3D'mso-spacerun:yes'>  </span>It does not return until the packet has=
+ been
+sent.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Handle - S=
+upplies
+the handle of the packet to send.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Length - S=
+upplies
+the length of the packet to send.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_SUC=
+CESS
+when a packet has been successfully sent.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>STATUS_IO_=
+TIMEOUT
+if the packet could not be sent within 100ms.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>   
+</span>STATUS_INVALID_PARAMETER if an invalid Handle or Adapter is passed.<=
+/p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>This routine sends the packet associated with the pass=
+ed
+handle out onto the wire.<span style=3D'mso-spacerun:yes'>  </span>Note that
+Handle may have an additional bit set in it, that indicates whether the sen=
+d is
+an asynchronous transfer or not.<span style=3D'mso-spacerun:yes'>  </span>I=
+f the
+TRANSMIT_ASYNC flag is set in the handle, then this routine should program =
+the
+hardware to send the packet, and should then immediately return without wai=
+ting
+for the hardware to complete the send.<span style=3D'mso-spacerun:yes'> 
+</span>This means that any errors that occur during transmit will be lost.<=
+span
+style=3D'mso-spacerun:yes'>  </span>That is OK, and by design, as packets c=
+an be
+lost on the wire anyway.<span style=3D'mso-spacerun:yes'>  </span>If the
+TRANSMIT_ASYNC flag is not set in the Handle, then this routine MUST wait u=
+ntil
+the packet has been sent out on the wire, and should return any error that
+occurs during transmit if any. <span style=3D'mso-spacerun:yes'> </span>Not=
+e that
+when dump files are being sent to the debugger host, or when Windows networ=
+king
+packets are being sent from KDNIC through KDNET, then TRANSMIT_ASYNC will be
+set.<span style=3D'mso-spacerun:yes'>  </span>When all other debugger packe=
+ts are
+being sent TRANSMIT_ASYNC will be clear.</p>
+
+<p class=3DMsoNormal>If a set of packets are sent with TRANSMIT_ASYNC set T=
+RUE,
+followed by a packet that does not have TRANSMIT_ASYNC set, the hardware mu=
+st
+wait until the packet without the flag set, is actually sent, even if this
+means it has to wait for the previous <span class=3DSpellE>async</span> pac=
+kets
+to be sent also.</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>PVOID</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdGetPacketAddress</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID
+Adapter,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>ULONG Hand=
+le</p>
+
+<p class=3DMsoNormal>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+returns a pointer to the first byte of a packet associated</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>with</span>
+the passed handle.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Handle - S=
+upplies
+a handle to the packet for which to return the</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>starting</span> address.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Pointer to=
+ the
+first byte of the packet.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>This routine returns a pointer to the first byte of th=
+e packet
+associated with the passed Handle.<span style=3D'mso-spacerun:yes'>  </span=
+>Note
+that the Handle will have the TRANSMIT_HANDLE bit set for transmit packets,=
+ and
+the TRANSMIT_HANDLE bit clear for receive packets.<span
+style=3D'mso-spacerun:yes'>  </span>The returned pointer should be a Windows
+virtual address that can be read or written by the processor.<span
+style=3D'mso-spacerun:yes'>  </span>This address should fall within the mem=
+ory
+block reserved for the KDNET extensibility module which is passed in the de=
+bug
+device descriptor Memory structure.<span style=3D'mso-spacerun:yes'> 
+</span>(Note that the KDNET extensibility module should NEVER use more than=
+ the
+memory size it requested in <span class=3DSpellE>KdInitializeLibrary</span>=
+ when
+accessing that memory.<span style=3D'mso-spacerun:yes'>  </span>Any additio=
+nal
+memory at the end of the block is reserved for use by KDNET, and must not be
+touched by the KDNET extensibility module.)</p>
+
+<span style=3D'font-size:11.0pt;font-family:"Calibri",sans-serif;mso-ascii-=
+theme-font:
+minor-latin;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-la=
+tin;
+mso-hansi-theme-font:minor-latin;mso-bidi-font-family:"Times New Roman";
+mso-bidi-theme-font:minor-bidi;mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA'><br clear=3Dall style=3D'mso-special-charact=
+er:line-break;
+page-break-before:always'>
+</span>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>ULONG</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>KdGetPacketLength</span> (</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>__in PVOID
+Adapter,</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>ULONG Hand=
+le</p>
+
+<p class=3DMsoNormal>)</p>
+
+<p class=3DMsoNormal>/*++</p>
+
+<p class=3DMsoNormal>Routine Description:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>This funct=
+ion
+returns the length of the packet associated with the passed</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span><span clas=
+s=3DGramE>handle</span>.</p>
+
+<p class=3DMsoNormal>Arguments:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Adapter - =
+Supplies
+a pointer to the debug adapter object.</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>Handle - S=
+upplies
+a handle to the packet for which to return the</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>        </span><span
+class=3DGramE>length</span>.</p>
+
+<p class=3DMsoNormal>Return Value:</p>
+
+<p class=3DMsoNormal><span style=3D'mso-spacerun:yes'>    </span>The length=
+ of the
+packet.</p>
+
+<p class=3DMsoNormal>--*/</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>This routine returns a length in bytes of the packet
+associated with the passed Handle.<span style=3D'mso-spacerun:yes'>  </span=
+>Note
+that the Handle will have the TRANSMIT_HANDLE bit set for transmit packets,=
+ and
+the TRANSMIT_HANDLE bit clear for receive packets.<span
+style=3D'mso-spacerun:yes'>  </span>For transmit packets, this length shoul=
+d be
+the maximum number of bytes that can be written to the packet.<span
+style=3D'mso-spacerun:yes'>  </span>For receive packets, this length should=
+ be
+the actual number of bytes in the received packet.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:11.0pt;
+font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;mso-farea=
+st-font-family:
+Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;
+mso-bidi-font-family:"Times New Roman";mso-bidi-theme-font:minor-bidi;
+mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'=
+><br
+clear=3Dall style=3D'mso-special-character:line-break;page-break-before:alw=
+ays'>
+</span></b>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0in;margin-bottom:.0001pt;line-=
+height:
+normal'><b style=3D'mso-bidi-font-weight:normal'><o:p>&nbsp;</o:p></b></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>Debugging KDN=
+ET
+Extensibility Modules<o:p></o:p></b></p>
+
+<p class=3DMsoNormal>To debug a KDNET extensibility module you need to run =
+the
+following <span class=3DSpellE>bcdedit</span> commands from an elevated com=
+mand
+prompt on the target machine.</p>
+
+<p class=3DMsoNormal>First, and most important, you need to run the followi=
+ng two
+commands to make sure that <span class=3DSpellE>Winload</span> will allow
+repeated boot failures without going down a special failure path that breaks
+into the debugger and prevents normal boot.<span style=3D'mso-spacerun:yes'=
+> 
+</span>Running these commands will allow you to repeatedly reboot the machi=
+ne
+with new bits, and debug those new bits without issue.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>Bcdedit</span> -set {current} <sp=
+an
+class=3DSpellE>BootStatusPolicy</span> <span class=3DSpellE>IgnoreAllFailur=
+es</span></p>
+
+<p class=3DMsoNormal><span class=3DSpellE>Bcdedit</span> -set {current} <sp=
+an
+class=3DSpellE>RecoveryEnabled</span> No</p>
+
+<p class=3DMsoNormal>Assuming you will use serial debugging on com1 on the =
+target
+machine to debug the extensibility module, do the following.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span> -<span
+class=3DSpellE>dbgsettings</span> serial debugport:1 baudrate:115200</p>
+
+<p class=3DMsoNormal>This sets the default debug transport to serial on com=
+1 at
+115200 baud.<span style=3D'mso-spacerun:yes'>  </span>These settings will b=
+e used
+for boot debugging also.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span>
+-debug on</p>
+
+<p class=3DMsoNormal>This enables kernel debugging.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span> -<span
+class=3DSpellE>bootdebug</span> on</p>
+
+<p class=3DMsoNormal>This enables boot debugging on winload.exe, which you =
+will
+use to debug into the early kernel initialization including your KDNET
+extensibility module.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span>
+-set <span class=3DSpellE>kerneldebugtype</span> net</p>
+
+<p class=3DMsoNormal>This forces the kernel debug type to net, regardless o=
+f the
+default debug transport settings.<span style=3D'mso-spacerun:yes'>  </span>=
+This
+will cause winload.exe to load kdnet.dll as the kernel debug transport.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span>
+-set <span class=3DSpellE>kernelbusparams</span> <span class=3DSpellE>b.d.f=
+</span></p>
+
+<p class=3DMsoNormal>Where b is the bus number, d is the device number and =
+f is
+the function number – all in decimal – of the hardware you are writing the
+KDNET <span class=3DSpellE>extensiblity</span> module for.<span
+style=3D'mso-spacerun:yes'>  </span>These numbers will depend on which PCI =
+slot
+the hardware is located in.<span style=3D'mso-spacerun:yes'>  </span>You ca=
+n find
+these by finding the location string in the device properties page of the
+network device in Windows device manager.<span style=3D'mso-spacerun:yes'> 
+</span>Open Windows device manager, double click on network devices, find y=
+our
+device, double click on it, and in the window that opens there should be a
+Location:<span style=3D'mso-spacerun:yes'>  </span>field that contains the =
+bus,
+device and function of the hardware on the PCI bus.<span
+style=3D'mso-spacerun:yes'>  </span>If you have a bus driver that causes th=
+at
+information to be masked, then you will have to determine the location from
+your drivers, or some other way.</p>
+
+<p class=3DMsoNormal>This forces the kernel <span class=3DSpellE>busparams<=
+/span>
+to <span class=3DSpellE>b.d.f</span> – which forces that particular device =
+to be
+selected as the kernel debug device.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span>
+-set <span class=3DSpellE>kernelhostip</span> N</p>
+
+<p class=3DMsoNormal>Where N is determined by the following formula.<span
+style=3D'mso-spacerun:yes'>  </span>If your host debugger machine has an IP=
+v4
+address of <span class=3DSpellE>w.x.y.z</span>, then N =3D (w*0x01000000) +
+(x*0x00010000) + (y*0x00000100) + (z*0x00000001).<span
+style=3D'mso-spacerun:yes'>  </span>N needs to be specified on the command =
+line
+in decimal, not hex.<span style=3D'mso-spacerun:yes'>  </span>Effectively y=
+ou
+take each byte of the IPv4 address and you concatenate it (in hex) to build=
+ a
+32 bit number in hex, and then you convert that to decimal.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span>
+-set <span class=3DSpellE>kernelport</span> N</p>
+
+<p class=3DMsoNormal>Where N is 50000 or some other port that will not be b=
+locked
+on your internal network.</p>
+
+<p class=3DMsoNormal>This forces KDNET to use port N as the network debug p=
+ort.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span>
+-set <span class=3DSpellE>kernelkey</span> 1.2.3.4</p>
+
+<p class=3DMsoNormal>This forces the KDNET debug key to 1.2.3.4.<span
+style=3D'mso-spacerun:yes'>  </span>You can use any other valid key if you
+want.<span style=3D'mso-spacerun:yes'>  </span>1.2.3.4 is not a secure key,=
+ and
+should only be used when you are first bringing things up.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bcdedit</span=
+></span>
+-set <span class=3DSpellE>kerneldhcp</span> on</p>
+
+<p class=3DMsoNormal>This forces the KDNET kernel <span class=3DSpellE>dhcp=
+</span>
+setting to on.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Run your debugger on the debugger host machine with the
+following command line assuming that you are using com1 as your serial debug
+port on the host machine:</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>windbg</span>=
+</span> -d
+-k <span class=3DSpellE>com:port</span>=3Dcom1,baud=3D115200</p>
+
+<p class=3DMsoNormal>That will run the debugger and will cause it to <span
+class=3DSpellE>breakin</span> when the <span class=3DSpellE>windbg</span> b=
+oot
+debugger first communicates with the host machine.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Then reboot the target machine by running</p>
+
+<p class=3DMsoNormal><span class=3DGramE>shutdown</span> -r -t 0</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>When the debugger breaks into <span class=3DSpellE>win=
+dbg</span>,
+make sure you get symbols loaded for <span class=3DSpellE>winload</span>.<s=
+pan
+style=3D'mso-spacerun:yes'>  </span>(<span class=3DGramE>might</span> need =
+to set
+the .<span class=3DSpellE>sympath</span> and do a .reload)</p>
+
+<p class=3DMsoNormal>Then run</p>
+
+<p class=3DMsoNormal><span class=3DGramE>x</span> <span class=3DSpellE>winl=
+oad</span>!*deb*<span
+class=3DSpellE>tra</span>*</p>
+
+<p class=3DMsoNormal>One of the symbols listed will be something like <span
+class=3DSpellE>BdDebugTransitions</span>.</p>
+
+<p class=3DMsoNormal>Run</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>ed</span></sp=
+an> <span
+class=3DSpellE>winload!BdDebugTransitions</span> 1</p>
+
+<p class=3DMsoNormal>But make sure to use the correct symbol name.</p>
+
+<p class=3DMsoNormal>Then run</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bu</span></sp=
+an> <span
+class=3DSpellE>winload!blbdstop</span></p>
+
+<p class=3DMsoNormal>Then hit g</p>
+
+<p class=3DMsoNormal>You should break in at <span class=3DSpellE>winload<sp=
+an
+class=3DGramE>!BlBdStop</span></span>.</p>
+
+<p class=3DMsoNormal>Run</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bu</span></sp=
+an> <span
+class=3DSpellE>nt!KdInitSystem</span></p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bu</span></sp=
+an> <span
+class=3DSpellE>kdnet!KdInitialize</span></p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bu</span></sp=
+an> <span
+class=3DSpellE>kdstub!KdInitializeLibrary</span></p>
+
+<p class=3DMsoNormal>Note that most likely you will use <span class=3DSpell=
+E>kdstub</span>
+when setting breakpoints in your KDNET extensibility module, if that doesn’t
+work then use</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bu</span></sp=
+an> <span
+class=3DSpellE>kd_YY_XXXX!KdInitializeLibrary</span></p>
+
+<p class=3DMsoNormal>Where YY is your PCI class, and XXXX is your PCI VID.<=
+span
+style=3D'mso-spacerun:yes'>  </span>(<span class=3DSpellE><span class=3DGra=
+mE>ie</span></span>:
+Use the name of your KDNET extensibility module.)</p>
+
+<p class=3DMsoNormal>Usually in the debugger you will need to use <span
+class=3DSpellE>kdstub</span> instead of using the actual name of your
+extensibility module.</p>
+
+<p class=3DMsoNormal>Then run</p>
+
+<p class=3DMsoNormal><span class=3DSpellE><span class=3DGramE>bl</span></sp=
+an></p>
+
+<p class=3DMsoNormal>Make sure the breakpoints stuck (they should all have =
+an e
+next to them).</p>
+
+<p class=3DMsoNormal>Then hit g</p>
+
+<p class=3DMsoNormal>You should hit the <span class=3DSpellE>nt<span class=
+=3DGramE>!KdInitSystem</span></span>
+breakpoint.</p>
+
+<p class=3DMsoNormal>Hit g again, and you should hit <span class=3DSpellE>k=
+dnet<span
+class=3DGramE>!KdInitialize</span></span></p>
+
+<p class=3DMsoNormal>Hit g again and you should hit a breakpoint in your own
+module at <span class=3DSpellE>KdInitializeLibrary</span>.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Then you can set a breakpoint on your <span class=3DSp=
+ellE>InitializeController</span>
+routine, as well as all your other routines, and step through your code.</p>
+
+<p class=3DMsoNormal>Once you step through <span class=3DSpellE>KdInitializ=
+eLibrary</span>,
+hit g, and if you set a breakpoint on your <span class=3DSpellE>InitializeC=
+ontroller</span>
+routine, that will get hit next.</p>
+
+<p class=3DMsoNormal>Then once that completes, make sure you have breakpoin=
+ts set
+on your <span class=3DSpellE>KdGetTxPacket</span>, <span class=3DSpellE>KdS=
+endTxPacket</span>,
+<span class=3DSpellE>KdGetRxPacket</span>, <span class=3DSpellE>KdReleaseRx=
+Packet</span>
+routines, and hit g again, and those routines will get run as part of netwo=
+rk
+initialization done by KDNET during boot.</p>
+
+<p class=3DMsoNormal>You may need to add temporary code to your <span
+class=3DSpellE>KdInitializeLibrary</span> or <span class=3DSpellE>KdInitial=
+izeController</span>
+routines to make sure that all of your routines get called so that you can =
+step
+through all of your code.<span style=3D'mso-spacerun:yes'>  </span>(<span
+class=3DSpellE>KdShutdownController</span> for example won’t get called dur=
+ing
+startup when things work normally, so you will need to explicitly call it f=
+rom
+temporary code so that you can step through it and make sure it is correct.=
+)</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal>Once you have stepped through all of your code and are
+confident it is correct, then reboot the target, but do NOT set the <span
+class=3DSpellE>winload!BdDebugTransitions</span> flag to true (leave it def=
+aulted
+to zero).</p>
+
+<p class=3DMsoNormal>Then also run another instance of the kernel debugger =
+on
+your host debugger machine.</p>
+
+<p class=3DMsoNormal><span class=3DSpellE>Windbg</span> -d -k <span class=
+=3DSpellE>net<span
+class=3DGramE>:port</span></span>=3D50000,key=3D1.2.3.4</p>
+
+<p class=3DMsoNormal>Let the target machine boot, and it should connect to =
+the
+other instance of the kernel debugger over the network.</p>
+
+<p class=3DMsoNormal>Then run commands in the kernel debugger and make sure=
+ it
+works, and then let the target continue booting, and make sure you can later
+break in and run commands.</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=3DMsoNormal><b style=3D'mso-bidi-font-weight:normal'>IMPORTANT NOT=
+E</b>:<span
+style=3D'mso-spacerun:yes'>  </span><span style=3D'color:red'>Setting the d=
+ebug
+transitions flag in <span class=3DSpellE>winload</span>, GUARANTEES that Wi=
+ndows
+WILL NOT BOOT. </span><span style=3D'mso-spacerun:yes'> </span>If you attem=
+pt to
+allow Windows to finish booting after setting that flag, Windows will simply
+crash, or hang.<span style=3D'mso-spacerun:yes'>  </span>If you want Window=
+s to
+boot successfully you CANNOT set that debug transitions flag.<span
+style=3D'mso-spacerun:yes'>  </span>Setting the flag allows you to debug yo=
+ur
+code, and verify that it is correct, by stepping through it in the debugger,
+but ultimately you will need to NOT set the flag so that you can verify that
+debugging works when you boot normally.<span style=3D'mso-spacerun:yes'> 
+</span>This means that you cannot step through your code when booting the
+system normally, and in fact, when Windows is running normally, with debugg=
+ing
+enabled on your hardware, your KDNET extensibility module is un-debug-able.=
+<span
+style=3D'mso-spacerun:yes'>  </span>Any attempt to debug it with the kernel
+debugger, will cause the machine to crash.<span style=3D'mso-spacerun:yes'> 
+</span>(You cannot set breakpoints in code that runs in the kernel debug pa=
+ths,
+as it causes infinite reentry, a blown stack, and a reboot.)</p>
+
+<p class=3DMsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D08330.2D3548C0
+Content-Location: file:///C:/247C3D13/DevelopingKDNETExtensibilityModules_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQCq
+UiXfxgYAAIsaAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZXYvbRhR9L/Q/CL07/pL8scQb
+bNnOttlNQuyk5HFsj63JjjRGM96NCYGSPBYKpWnpQwN960NpG0igL+mv2TalTSF/oXdGtjxjj7ub
+JYWlZA2LNDr3zpl7r84dSZev3I+oc4QTTljccIuXCq6D4yEbkXjScG/3u7ma63CB4hGiLMYNd465
+e2X3ww8uox0R4gg7YB/zHdRwQyGmO/k8H8Iw4pfYFMdwbcySCAk4TSb5UYKOwW9E86VCoZKPEIld
+J0YRuL0xHpMhdvrSpbu7dN6hcBoLLgeGNOlJ19iwUNjRYVEi+JwHNHGOEG24MM+IHffxfeE6FHEB
+FxpuQf25+d3LebSzMKJii61m11V/C7uFweiwpOZMJoNsUs/zvUoz868AVGziOtVOpVPJ/CkAGg5h
+pSkX3affqrfa/gKrgdJDi+92tV0uGnjNf3mDc9OXPwOvQKl/bwPf7QYQRQOvQCne38B7XrUUeAZe
+gVJ8ZQNfLTTbXtXAK1BISXy4gS74lXKwXG0GGTO6Z4XXfa9bLS2cr1BQDVl1ySnGLBbbai1C91jS
+BYAEUiRI7Ij5FI/REKo4QJQMEuLsk0kIhTdFMeMwXCgVuoUy/Jc/Tx2piKAdjDRryQuY8I0hycfh
+w4RMRcP9GLy6GuTNyx/fvHzunDx6cfLol5PHj08e/Zw6Mqz2UDzRrV5//8XfTz91/nr+3esnX9nx
+XMf//tNnv/36pR0IK12F4NXXz/548ezVN5//+cMTC7yZoIEO75MIc+c6PnZusQgWpkJgMseD5O0s
++iEiukUznnAUIzmLxX9HhAb6+hxRZMG1sBnBOwlIjA14dXbPINwLk5kgFo/XwsgAHjBGWyyxRuGa
+nEsLc38WT+yTJzMddwuhI9vcAYqN/HZmU9BWYnMZhNigeZOiWKAJjrFw5DV2iLFldXcJMeJ6QIYJ
+42wsnLvEaSFiDUmfDIxqWhntkQjyMrcRhHwbsTm447QYta26jY9MJNwViFrI9zE1wngVzQSKbC77
+KKJ6wPeRCG0ke/NkqOM6XECmJ5gypzPCnNtsbiSwXi3p10Be7Gk/oPPIRCaCHNp87iPGdGSbHQYh
+iqY2bI/EoY79iB9CiSLnJhM2+AEz7xB5DnlA8dZ03yHYSPfpanAblFWntCoQeWWWWHJ5FTOjfntz
+OkZYSQ0Iv6HnEYlPFfc1Wff/W1kHIX317VPLqi6qoDcTYr2j9tZkfBtuXbwDlozIxdfuNprFNzHc
+LpsN7L10v5du938v3dvu53cv2CuNBvmWW8V0q6427tHWffuYUNoTc4r3udq6c+hMoy4MSjv1zIqz
+57hpCIfyToYJDNwkQcrGSZj4hIiwF6Ip7O+LrnQy4QvXE+5MGYdtvxq2+pZ4OosO2Ch9XC0W5aNp
+Kh4cidV4wc/G4VFDpOhKdfUIlrlXbCfqUXlJQNq+DQltMpNE2UKiuhyUQVIP5hA0Cwm1snfCom5h
+UZPul6naYAHUsqzA1smBDVfD9T0wASN4okIUj2Se0lQvs6uS+S4zvS2YRgXAPmJZAatM1yXXrcuT
+q0tL7QyZNkho5WaSUJFRPYyHaIQX1SlHz0LjbXNdX6XUoCdDoeaD0lrRqNb+jcV5cw1269pAY10p
+aOwcN9xK2YeSGaJpwx3DYz8cRlOoHS63vIhO4N3ZUCTpDX8eZZkmXLQRD9OAK9FJ1SAiAicOJVHD
+lcvP0kBjpSGKW7EEgnBhydVBVi4aOUi6mWQ8HuOh0NOujchIp6eg8KlWWK8q8/ODpSWbQbp74ejY
+GdBZcgtBifnVogzgiHB4+1NMozki8DozE7JV/a01poXs6u8TVQ2l44hOQ7ToKLqYp3Al5RkddZbF
+QDtbrBkCqoVk0QgHE9lg9aAa3TTrGimHrV33dCMZOU00Vz3TUBXZNe0qZsywbANrsTxfk9dYLUMM
+mqZ3+FS61yW3vtS6tX1C1iUg4Fn8LF33DA1Bo7aazKAmGW/KsNTsxajZO5YLPIXaWZqEpvqVpdu1
+uGU9wjodDJ6r84PdetXC0Hi5r1SRVt899E8TbHAPxKMNL4FnVHCVSvjwkCDYEPXUniSVDbhF7ovF
+rQFHziwhDfdBwW96QckPcoWa38l5Za+Qq/nNcq7p++Vixy8W2q3SQ2gsIoyKfvrNpQuvouh88eVF
+jW98fYmWb9suDVmUZ+rrSl4RV19fiqXtX18cAqLzoFLq1sv1ViVXLze7Oa/dquXqQaWVa1eCarvb
+DvxavfvQdY4U2GuWA6/SqeUqxSDIeZWCpF+r56peqdT0qs1ax2s+XGxjYOWpfCxiAeFVvHb/AQAA
+//8DAFBLAwQUAAYACAAAACEADdGQn7YAAAAbAQAAJwAAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1l
+TWFuYWdlci54bWwucmVsc4SPTQrCMBSE94J3CG9v07oQkSbdiNCt1AOE5DUNNj8kUeztDa4sCC6H
+Yb6ZabuXnckTYzLeMWiqGgg66ZVxmsFtuOyOQFIWTonZO2SwYIKObzftFWeRSyhNJiRSKC4xmHIO
+J0qTnNCKVPmArjijj1bkIqOmQci70Ej3dX2g8ZsBfMUkvWIQe9UAGZZQmv+z/TgaiWcvHxZd/lFB
+c9mFBSiixszgI5uqTATKW7q6xN8AAAD//wMAUEsBAi0AFAAGAAgAAAAhAOneD7//AAAAHAIAABMA
+AAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAAACEApdan58AA
+AAA2AQAACwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAAACEAa3mWFoMA
+AACKAAAAHAAAAAAAAAAAAAAAAAAZAgAAdGhlbWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbFBLAQIt
+ABQABgAIAAAAIQCqUiXfxgYAAIsaAAAWAAAAAAAAAAAAAAAAANYCAAB0aGVtZS90aGVtZS90aGVt
+ZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAA0AkAAHRoZW1l
+L3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0BAADLCgAAAAA=
+
+------=_NextPart_01D08330.2D3548C0
+Content-Location: file:///C:/247C3D13/DevelopingKDNETExtensibilityModules_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D08330.2D3548C0
+Content-Location: file:///C:/247C3D13/DevelopingKDNETExtensibilityModules_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../DevelopingKDNETExtensibilityModules.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D08330.2D3548C0--
